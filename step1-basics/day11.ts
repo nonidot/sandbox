@@ -12,5 +12,5 @@ const dog: Dog = {
 console.log(dog);
 
 // readonlyのプロパティを変更しようとするとどうなる？
-dog.name = "ちくわ";
+// dog.name = "ちくわ";
 dog.weight = 3;
